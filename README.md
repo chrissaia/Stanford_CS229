@@ -46,14 +46,8 @@ We avoid library abstractions whenever possible.
 - loading datasets
 - optional baseline comparisons
 
-### 3) Debuggability Is a Feature
-Every major algorithm includes:
-- loss curves
-- sanity checks on toy data
-- at least one failure-mode demonstration
-
-### 4) Visualizations Are First-Class
-Decision boundaries, probability surfaces, contours, margins, and diagnostics are part of the explanation — not decoration.
+### 3) Visualizations
+Decision boundaries, probability surfaces, contours, margins, and diagnostics are part of the explanation.
 
 ---
 
