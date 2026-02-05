@@ -38,7 +38,7 @@ Every lesson follows the same structure:
 ## Repository Philosophy
 
 ### 1) Implement the CS229 Version
-If Andrew Ng derives something a certain way, this repo implements **that version**, explains *why* it works, and shows where it fails.
+If Andrew Ng derives something a certain way, this repo implements **that version** (or something similar), explains *why* it works, and sometimes where it fails.
 
 ### 2) NumPy First
 We avoid library abstractions whenever possible.  
