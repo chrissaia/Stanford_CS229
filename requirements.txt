@@ -2,3 +2,7 @@ numpy
 matplotlib
 pandas
 jupyterlab
+from mpl_toolkits.mplot3d import Axes3D
+import os
+import glob
+from IPython.display import Audio, display
